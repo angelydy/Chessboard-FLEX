@@ -71,8 +71,8 @@
     background-color: rgba(160, 92, 47, 0.956);
   }
   100% {
-    -webkit-transform: translateY(140px);
-            transform: translateY(140px);
+    -webkit-transform: translateY(145px);
+            transform: translateY(145px);
   }
 }
 
@@ -85,8 +85,8 @@
     background-color: rgba(160, 92, 47, 0.956);
   }
   100% {
-    -webkit-transform: translateY(140px);
-            transform: translateY(140px);
+    -webkit-transform: translateY(145px);
+            transform: translateY(145px);
   }
 }
 
@@ -99,9 +99,8 @@
     background-color: white;
   }
   100% {
-    -webkit-transform: translateY(-135px);
-            transform: translateY(-135px);
-    background-color: transparent;
+    -webkit-transform: translateY(-140px);
+            transform: translateY(-140px);
   }
 }
 
@@ -114,9 +113,8 @@
     background-color: white;
   }
   100% {
-    -webkit-transform: translateY(-135px);
-            transform: translateY(-135px);
-    background-color: transparent;
+    -webkit-transform: translateY(-140px);
+            transform: translateY(-140px);
   }
 }
 
