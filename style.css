@@ -71,8 +71,8 @@
     background-color: rgba(160, 92, 47, 0.956);
   }
   100% {
-    -webkit-transform: translateY(150px);
-            transform: translateY(150px);
+    -webkit-transform: translateY(155px);
+            transform: translateY(155px);
   }
 }
 
@@ -85,8 +85,8 @@
     background-color: rgba(160, 92, 47, 0.956);
   }
   100% {
-    -webkit-transform: translateY(150px);
-            transform: translateY(150px);
+    -webkit-transform: translateY(155px);
+            transform: translateY(155px);
   }
 }
 
